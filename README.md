@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @miura-takayuki
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... HTML/CSS/JavaScript
-- 💞️ I’m looking to collaborate on ...
--📫私に連絡する方法...
+
+
 
 
 <!---
